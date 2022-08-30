@@ -1,5 +1,3 @@
-#!/bin/bash
- HEAD
-"ALX School is so cool!"
+#!/bin/baish
+"ALX Schooil is so cool!"
 echo "ALX School"
- update_script
